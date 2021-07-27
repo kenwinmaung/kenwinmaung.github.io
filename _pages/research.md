@@ -10,12 +10,12 @@ author_profile: true
 ## Working papers  
 [**Time-varying Forecast Combination for High-Dimensional Data**](https://arxiv.org/abs/2010.10435)   
 *Revise and resubmit at Journal of Econometrics*  
-with Bin Chen
+with Bin Chen  
 [Online appendix](/files/Online_Appendix_Oct_11_2020.pdf)
 
 <font size = "3"> In this paper, we propose a new nonparametric estimator of time-varying forecast combination weights. When the number of individual forecasts is small, we study the asymptotic properties of the local linear estimator. When the number of candidate forecasts exceeds or diverges with the sample size, we consider penalized local linear estimation with the group SCAD penalty. We show that the estimator exhibits the oracle property and correctly selects relevant forecasts with probability approaching one. Simulations indicate that the proposed estimators outperform existing combination schemes when structural changes exist. Two empirical studies on inflation forecasting and equity premium prediction highlight the merits of our approach relative to other popular methods. </font>
 
-**Estimating high-dimensional Markov-switching VARs**
+**Estimating high-dimensional Markov-switching VARs**  
 [Online appendix](/files/Maung_2021_Regime_Switch_High_Dim_online_appendix.pdf)
 
 <font size = "3"> Maximum likelihood estimation of large Markov-switching vector autoregressions (MS-VARs) can be challenging or infeasible due to parameter proliferation. To accommodate situations where dimensionality may be of comparable order to or exceeds the sample size, we adopt a sparse framework and propose two penalized maximum likelihood estimators with either the Lasso or the smoothly clipped absolute deviation (SCAD) penalty. We show that both estimators are estimation consistent, while the SCAD estimator also selects relevant parameters with probability approaching one. A modified EM-algorithm is developed for the case of Gaussian errors and simulations show that the algorithm exhibits desirable finite sample performance. In an application to short-horizon return predictability in the US, we estimate a 15 variable 2-state MS-VAR(1) and obtain the often reported counter-cyclicality in predictability. The variable selection property of our estimators helps to identify predictors that contribute strongly to predictability during economic contractions but are otherwise irrelevant in expansions. Furthermore, out-of-sample analyses indicate that large MS-VARs can significantly outperform "hard-to-beat" predictors like the historical average. </font>
