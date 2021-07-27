@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-I'm an Econometrician studying **high-dimensional time-series models** and **structural changes** in economics and quantitative finance.
+I'm an Econometrician studying **high-dimensional time-series models** and **structural changes** in economics and quantitative finance. I'd be happy to talk to you about my work on [large time-varying forecasting problems](/research/). 
 
-I'd be happy to talk to you about my work on [large time-varying forecasting problems](/research/). I'm also interested in applying econometrics to public health such as in [identifying the impact of political events on Covid-19](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008959).
+On the side, I like to apply econometrics to public health such as to [identify the impact of political events on Covid-19](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008959).
