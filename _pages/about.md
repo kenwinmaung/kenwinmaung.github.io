@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, I'm Kenwin Maung. I am an econometrician working on estimating high-dimensional models and structural changes in economics and empirical finance."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello, I'm Kenwin Maung. I am an econometrician working on estimating high-dimensional models and structural changes in economics and empirical finance.**
+
 
 
 
