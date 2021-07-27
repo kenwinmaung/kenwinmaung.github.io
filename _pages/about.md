@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an econometrician working on estimating <span style="color:Aquamarine">high-dimensional time-series models</span> and <span style="color:Aquamarine">structural changes</span> in economics and empirical finance.
+I am an econometrician working on estimating <span style="color:#52adc8">high-dimensional time-series models</span> and <span style="color:#52adc8">structural changes</span> in economics and empirical finance.
