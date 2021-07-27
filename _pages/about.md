@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+  
 
 I'm an Econometrician studying **high-dimensional time-series models** and **structural changes** in economics and quantitative finance. I'd be happy to talk to you about my work on [large time-varying forecasting problems](/research/). 
 
