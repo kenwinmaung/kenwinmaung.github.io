@@ -27,12 +27,12 @@ with Bin Chen
 ## Other work (public health)
 
 [**Estimating direct and spill-over impacts of political elections on COVID-19 transmission using synthetic control methods**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008959)  
-*PLoS Computational Biology*
+*PLoS Computational Biology*  
 with Jue Tao Lim, Sok Teng Tan, Suan Ee Ong, Jane Mingjie Lim, Joel Ruihan Koo, Haoyang Sun, Minah Park, Ken Wei Tan, Joanne Yoong, Alex R. Cook, and Borame Sue Lee Dickens.  
 [Media coverage](https://plos.altmetric.com/details/106543552/news)
 
-**Gender differences in countries' adaptation to societal ageing: international cross-sectional comparison.**
-*forthcoming at The Lancet Healthy Longevity*
+**Gender differences in countries' adaptation to societal ageing: international cross-sectional comparison.**  
+*forthcoming at The Lancet Healthy Longevity*  
 with Cynthia Chen, John W. Rowe, and the Research Network on an Ageing Society. 
 
 
