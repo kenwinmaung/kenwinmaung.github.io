@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Working papers  
-[**Time-varying Forecast Combination for High-Dimensional Data**](https://arxiv.org/abs/2010.10435)  
+[**Time-varying Forecast Combination for High-Dimensional Data**](https://arxiv.org/abs/2010.10435)   
 with Bin Chen; *Revise and resubmit at Journal of Econometrics*
 
-In this paper, we propose a new nonparametric estimator of time-varying forecast combination weights. When the number of individual forecasts is small, we study the asymptotic properties of the local linear estimator. When the number of candidate forecasts exceeds or diverges with the sample size, we consider penalized local linear estimation with the group SCAD penalty. We show that the estimator exhibits the oracle property and correctly selects relevant forecasts with probability approaching one. Simulations indicate that the proposed estimators outperform existing combination schemes when structural changes exist. Two empirical studies on inflation forecasting and equity premium prediction highlight the merits of our approach relative to other popular methods.
+<font size="1"> In this paper, we propose a new nonparametric estimator of time-varying forecast combination weights. When the number of individual forecasts is small, we study the asymptotic properties of the local linear estimator. When the number of candidate forecasts exceeds or diverges with the sample size, we consider penalized local linear estimation with the group SCAD penalty. We show that the estimator exhibits the oracle property and correctly selects relevant forecasts with probability approaching one. Simulations indicate that the proposed estimators outperform existing combination schemes when structural changes exist. Two empirical studies on inflation forecasting and equity premium prediction highlight the merits of our approach relative to other popular methods. </font>
 
 
 
