@@ -16,7 +16,7 @@ with Bin Chen
 <font size = "3"> In this paper, we propose a new nonparametric estimator of time-varying forecast combination weights. When the number of individual forecasts is small, we study the asymptotic properties of the local linear estimator. When the number of candidate forecasts exceeds or diverges with the sample size, we consider penalized local linear estimation with the group SCAD penalty. We show that the estimator exhibits the oracle property and correctly selects relevant forecasts with probability approaching one. Simulations indicate that the proposed estimators outperform existing combination schemes when structural changes exist. Two empirical studies on inflation forecasting and equity premium prediction highlight the merits of our approach relative to other popular methods. </font>
 
 [**Estimating high-dimensional Markov-switching VARs**](https://arxiv.org/abs/2107.12552)  
-*Best Ph.D. presentation at the 23rd Dynamic Econometrics conference*
+*Best Ph.D. presentation at the 23rd Dynamic Econometrics conference*  
 [Online appendix](/files/Maung_2021_Regime_Switch_High_Dim_online_appendix.pdf)
 
 
