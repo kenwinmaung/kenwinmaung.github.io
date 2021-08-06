@@ -32,7 +32,7 @@ with Bin Chen
 
 [**Gender differences in countries' adaptation to societal ageing: international cross-sectional comparison.**](https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00121-5/fulltext)  
 *The Lancet Healthy Longevity (2021)*  
-with Cynthia Chen, John W. Rowe, and the Research Network on an Ageing Society.
+with Cynthia Chen, John W. Rowe, and the Research Network on an Ageing Society.  
 [Media coverage](https://plu.mx/plum/a/?doi=10.1016/S2666-7568(21)00121-5&theme=plum-jbs-theme&hideUsage=true)
 
 [**Estimating direct and spill-over impacts of political elections on COVID-19 transmission using synthetic control methods**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008959)  
