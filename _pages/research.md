@@ -35,8 +35,8 @@ with Bin Chen
 Lead co-author with Jue Tao Lim, Sok Teng Tan, Suan Ee Ong, Jane Mingjie Lim, Joel Ruihan Koo, Haoyang Sun, Minah Park, Ken Wei Tan, Joanne Yoong, Alex R. Cook, and Borame Sue Lee Dickens.  
 [Media coverage](https://plos.altmetric.com/details/106543552/news)
 
-**Gender differences in countries' adaptation to societal ageing: international cross-sectional comparison.**  
-*forthcoming at The Lancet Healthy Longevity*  
+[**Gender differences in countries' adaptation to societal ageing: international cross-sectional comparison.**](https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00121-5/fulltext)  
+*The Lancet Healthy Longevity*  
 with Cynthia Chen, John W. Rowe, and the Research Network on an Ageing Society. 
 
 
