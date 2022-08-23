@@ -8,6 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Working papers  
+**Large Network Autoregressions with Unknown Adjacency Matrix**  
+[Slides](/files/Kenwin_Large_Networks.pdf); Presented at: AMES China 2022, SETA 2022, Singapore Economic Review Conference 2022, Society of Economic Measurement Conference 2022, 2022 Rochester Conference in Econometrics
+
+<font size = "3"> Many spatial and network econometric models rely on known spatial weights. This becomes a problem for investigations where the adjacency matrices are not readily accessed or constructed such as those typically observed in financial networks. Furthermore, direct estimation may be cumbersome or infeasible if the number of units in the network is large. To deal with this, we propose a Structural Vector Autoregression (SVAR) data-driven approach to recover the network structure via matrix regression under a large N and T asymptotic framework. The high-dimensionality of the problem is dealt with by focusing on the hub and authority centralities of the network, which eigenvector centralities are a special case of. We show, both theoretically and through simulations, that the reduced-form estimator is consistent and asymptotically normal, and suggest an identification strategy for the SVAR as implied by its spatial structure. In an empirical study on the contributions of Exchange Traded Funds (ETFs) to systemic risk, we apply our methodology to extract the linkages between constituents of a Large-Cap ETF from monthly stock returns and uncover a high degree of interrelations among stocks from a variety of sectors. In addition, we demonstrate the use of impulse responses to study the propagation of adverse shocks throughout the network as a tool to identify systemically important actors. </font>
+
 [**Time-varying Forecast Combination for High-Dimensional Data**](https://arxiv.org/abs/2010.10435)   
 *Revise and resubmit at Journal of Econometrics*  
 with Bin Chen  
@@ -18,7 +23,6 @@ with Bin Chen
 [**Estimating high-dimensional Markov-switching VARs**](https://arxiv.org/abs/2107.12552)  
 *Best Ph.D. presentation at the 23rd Dynamic Econometrics conference*  
 [Online appendix](/files/Maung_2021_Regime_Switch_High_Dim_online_appendix.pdf)
-
 
 <font size = "3"> Maximum likelihood estimation of large Markov-switching vector autoregressions (MS-VARs) can be challenging or infeasible due to parameter proliferation. To accommodate situations where dimensionality may be of comparable order to or exceeds the sample size, we adopt a sparse framework and propose two penalized maximum likelihood estimators with either the Lasso or the smoothly clipped absolute deviation (SCAD) penalty. We show that both estimators are estimation consistent, while the SCAD estimator also selects relevant parameters with probability approaching one. A modified EM-algorithm is developed for the case of Gaussian errors and simulations show that the algorithm exhibits desirable finite sample performance. In an application to short-horizon return predictability in the US, we estimate a 15 variable 2-state MS-VAR(1) and obtain the often reported counter-cyclicality in predictability. The variable selection property of our estimators helps to identify predictors that contribute strongly to predictability during economic contractions but are otherwise irrelevant in expansions. Furthermore, out-of-sample analyses indicate that large MS-VARs can significantly outperform "hard-to-beat" predictors like the historical average. </font>
 
