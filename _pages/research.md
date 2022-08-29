@@ -14,7 +14,7 @@ author_profile: true
 <font size = "3"> Many spatial and network econometric models rely on known spatial weights. This becomes a problem for investigations where the adjacency matrices are not readily accessed or constructed such as those typically observed in financial networks. Furthermore, direct estimation may be cumbersome or infeasible if the number of units in the network is large. To deal with this, we propose a Structural Vector Autoregression (SVAR) data-driven approach to recover the network structure via matrix regression under a large N and T asymptotic framework. The high-dimensionality of the problem is dealt with by focusing on the hub and authority centralities of the network, which eigenvector centralities are a special case of. We show, both theoretically and through simulations, that the reduced-form estimator is consistent and asymptotically normal, and suggest an identification strategy for the SVAR as implied by its spatial structure. In an empirical study on the contributions of Exchange Traded Funds (ETFs) to systemic risk, we apply our methodology to extract the linkages between constituents of a Large-Cap ETF from monthly stock returns and uncover a high degree of interrelations among stocks from a variety of sectors. In addition, we demonstrate the use of impulse responses to study the propagation of adverse shocks throughout the network as a tool to identify systemically important actors. </font>
 
 [**Time-varying Forecast Combination for High-Dimensional Data**](https://arxiv.org/abs/2010.10435)   
-*Revise and resubmit at Journal of Econometrics*  
+*Revise and resubmit at Journal of Econometrics (2nd round)*   
 with Bin Chen  
 [Online appendix](/files/Online_Appendix_Combined_Forecast.pdf)
 
@@ -24,7 +24,7 @@ with Bin Chen
 </details>
 
 [**Estimating high-dimensional Markov-switching VARs**](https://arxiv.org/abs/2107.12552)  
-*Best Ph.D. presentation at the 23rd Dynamic Econometrics conference*  
+*Best Ph.D. presentation at the 23rd Dynamic Econometrics conference; Under revision (reject & resubmit at Journal of Econometrics)*  
 [Online appendix](/files/Maung_2021_Regime_Switch_High_Dim_online_appendix.pdf)
 
 <details>
